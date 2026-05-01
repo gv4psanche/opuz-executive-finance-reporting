@@ -1,0 +1,9 @@
+DepartmentID,DepartmentName,ExpenseType
+10,Sales & Contracts,SG&A
+20,Marketing,SG&A
+30,Operations & Maintenance,COGS
+40,Finance,Overhead
+50,IT & Systems,Overhead
+60,Procurement & Logistics,COGS
+70,"Health, Safety & Environment",Overhead
+80,Engineering,COGS

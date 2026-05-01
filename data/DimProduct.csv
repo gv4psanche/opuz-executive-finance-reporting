@@ -1,0 +1,113 @@
+ProductID,ProductName,Category,UnitCostUSD,LeadTimeDays
+1,"Tricone Roller Cone Bit 8-1/2"" API",Drill Bits & Cutting Tools,54900.0,10
+2,"PDC Fixed Cutter Drill Bit 6-3/4""",Drill Bits & Cutting Tools,63400.0,38
+3,"Hybrid Kymera Drill Bit 9-7/8""",Drill Bits & Cutting Tools,20100.0,20
+4,"Core Barrel Inner Tube Assembly 4""",Drill Bits & Cutting Tools,58000.0,76
+5,"Diamond Impregnated Bit 4-3/4""",Drill Bits & Cutting Tools,8800.0,61
+6,"Bicenter Underreamer Bit 8-3/8""",Drill Bits & Cutting Tools,4200.0,18
+7,"Drag Bit Fishtail Blade 6""",Drill Bits & Cutting Tools,19800.0,71
+8,"Reaming Shell Concentric 4-1/2""",Drill Bits & Cutting Tools,51800.0,78
+9,PDC Insert Cutter 13mm Flat,Drill Bits & Cutting Tools,18100.0,90
+10,Roller Cone Bit Bearing Seal Kit,Drill Bits & Cutting Tools,60100.0,60
+11,Gauge Pad Tungsten Carbide Insert,Drill Bits & Cutting Tools,19900.0,82
+12,Bit Breaker Bowl Adapter Plate,Drill Bits & Cutting Tools,24700.0,7
+13,"Core Lifter Spring 4"" OD",Drill Bits & Cutting Tools,64900.0,27
+14,"Pilot Bit Sub Assembly 5-7/8""",Drill Bits & Cutting Tools,59800.0,50
+15,"Drill Collar 6-1/4"" OD Slick Type",Drill String & Tubulars,24700.0,34
+16,"Heavyweight Drill Pipe 4"" 14 lb/ft",Drill String & Tubulars,81400.0,50
+17,"Drill Pipe 5"" Grade E-75 Range II",Drill String & Tubulars,10000.0,55
+18,"Crossover Sub 4-1/2"" IF to 3-1/2"" IF",Drill String & Tubulars,9600.0,51
+19,"Kelly Drive Bushing Square 4-1/4""",Drill String & Tubulars,51900.0,12
+20,"Saver Sub Pin-Pin 4-1/2"" API REG",Drill String & Tubulars,62400.0,75
+21,"Float Sub Valve Assembly 5""",Drill String & Tubulars,11900.0,55
+22,"Spiral Drill Collar 8"" OD",Drill String & Tubulars,8100.0,44
+23,"Monel Drill Collar Non-Magnetic 6-1/2""",Drill String & Tubulars,70800.0,86
+24,Jar Accelerator Mandrel Hydraulic,Drill String & Tubulars,75400.0,53
+25,"Bit Sub Box-Box 4-1/2"" IF",Drill String & Tubulars,49700.0,15
+26,"Pony Drill Collar 4-3/4"" OD",Drill String & Tubulars,5300.0,36
+27,Drill Pipe Elevator Link 350T,Drill String & Tubulars,66100.0,17
+28,Drill String Centralizer Bow Spring,Drill String & Tubulars,72900.0,19
+29,"Annular Preventer Packing Element 13-5/8""",BOP & Well Control Equipment,33200.0,65
+30,"Ram Block Assembly Pipe Ram 5""",BOP & Well Control Equipment,54600.0,53
+31,"Blind Ram Block Set 13-5/8"" 5000 PSI",BOP & Well Control Equipment,15100.0,52
+32,"Shear Ram Blade Upper 18-3/4""",BOP & Well Control Equipment,19000.0,41
+33,BOP Hydraulic Actuator Piston Seal,BOP & Well Control Equipment,60100.0,89
+34,"Choke Manifold Valve Body 3"" 5000 PSI",BOP & Well Control Equipment,7500.0,88
+35,"Kill Line Valve Gate 3-1/16"" 10K",BOP & Well Control Equipment,15800.0,38
+36,BOP Control Unit Accumulator Bottle,BOP & Well Control Equipment,15100.0,55
+37,"Wellhead Casing Spool 13-3/8"" 5000 PSI",BOP & Well Control Equipment,24000.0,88
+38,Annular BOP Bonnet Assembly,BOP & Well Control Equipment,59000.0,35
+39,"Diverter Packer Element 26""",BOP & Well Control Equipment,58700.0,14
+40,Subsea BOP Connector Seal Ring,BOP & Well Control Equipment,20600.0,11
+41,BOP Stack Flex Joint Assembly,BOP & Well Control Equipment,68700.0,58
+42,Choke Valve Tungsten Carbide Trim,BOP & Well Control Equipment,23900.0,34
+43,"Triplex Pump Liner 6"" Chromium",Pump & Fluid Handling Parts,77700.0,79
+44,"Mud Pump Piston Assembly 5-1/2""",Pump & Fluid Handling Parts,74700.0,47
+45,Pump Valve Assembly Triplex Complete,Pump & Fluid Handling Parts,19300.0,70
+46,"Pump Rod Pony Rod 2-1/2"" Dia",Pump & Fluid Handling Parts,34500.0,89
+47,"Centrifugal Pump Impeller 14"" SS316",Pump & Fluid Handling Parts,39800.0,40
+48,Pump Cradle Bearing Housing Assembly,Pump & Fluid Handling Parts,13200.0,78
+49,Mud Pump Crosshead Slide Assembly,Pump & Fluid Handling Parts,46500.0,81
+50,"Desander Cone Polyurethane 12""",Pump & Fluid Handling Parts,37300.0,81
+51,"Desilter Cone Set Polyurethane 4""",Pump & Fluid Handling Parts,34800.0,35
+52,Shale Shaker Screen 20-mesh 1165mm,Pump & Fluid Handling Parts,84800.0,24
+53,Shale Shaker Screen 120-mesh API,Pump & Fluid Handling Parts,44000.0,18
+54,Centrifuge Scroll Conveyor Assembly,Pump & Fluid Handling Parts,64600.0,21
+55,Degasser Impeller Shaft Assembly,Pump & Fluid Handling Parts,14300.0,27
+56,"Pump Discharge Manifold 4"" 5000 PSI",Pump & Fluid Handling Parts,67600.0,61
+57,Top Drive Main Shaft Bearing Kit,Rotary & Top Drive Components,51300.0,56
+58,"Rotary Table Bushing Master Bushing 37-1/2""",Rotary & Top Drive Components,33400.0,66
+59,Top Drive Wash Pipe Packing Assembly,Rotary & Top Drive Components,45700.0,77
+60,Swivel Bail Forged Alloy 500T,Rotary & Top Drive Components,73400.0,8
+61,Rotary Table Ring Gear Assembly,Rotary & Top Drive Components,58300.0,21
+62,Top Drive Motor Carbon Brush Set,Rotary & Top Drive Components,58400.0,75
+63,Kelly Spinner Pneumatic Assembly,Rotary & Top Drive Components,64200.0,89
+64,Top Drive Gearbox Oil Seal Kit,Rotary & Top Drive Components,29900.0,44
+65,Rotary Table Locking Pin Assembly,Rotary & Top Drive Components,37800.0,65
+66,Top Drive IBOP Upper Valve Seat,Rotary & Top Drive Components,1800.0,40
+67,Torque Track Guide Roller Assembly,Rotary & Top Drive Components,82700.0,29
+68,Top Drive Link Tilt Hydraulic Cylinder,Rotary & Top Drive Components,43900.0,20
+69,"Rotary Table Roller Bearing 24""",Rotary & Top Drive Components,74200.0,45
+70,Top Drive TDS Elevator Bail Assembly,Rotary & Top Drive Components,71800.0,71
+71,"Casing Shoe Float Guide 9-5/8"" 47 lb/ft",Casing & Cementing Tools,52300.0,26
+72,"Float Collar Valve Insert 7"" 29 lb/ft",Casing & Cementing Tools,32700.0,27
+73,"Centralizer Bow Spring 9-5/8"" Rigid",Casing & Cementing Tools,46500.0,74
+74,"Stage Cementing Tool DV Tool 7""",Casing & Cementing Tools,78200.0,83
+75,"Cement Head Plug Container 5""",Casing & Cementing Tools,28600.0,9
+76,"Cement Wiper Plug Bottom 9-5/8""",Casing & Cementing Tools,10800.0,53
+77,"Cement Wiper Plug Top 9-5/8""",Casing & Cementing Tools,74900.0,46
+78,"Casing Scraper Rotary Blade 7""",Casing & Cementing Tools,21500.0,37
+79,"Casing Centralizer Stop Collar 7""",Casing & Cementing Tools,74800.0,17
+80,"Liner Hanger Hydraulic Set 7"" x 9-5/8""",Casing & Cementing Tools,8700.0,69
+81,"Packer Seal Element EPDM 7""",Casing & Cementing Tools,69600.0,75
+82,"Casing Running Tool 9-5/8"" Hydraulic",Casing & Cementing Tools,65400.0,23
+83,"Cement Retainer Retrievable 5-1/2""",Casing & Cementing Tools,56600.0,77
+84,Float Equipment Auto-Fill Valve,Casing & Cementing Tools,15300.0,74
+85,"Positive Displacement Motor Rotor 6-3/4""",Downhole Tools & MWD/LWD Components,74300.0,61
+86,"PDM Stator Elastomer 6-3/4""",Downhole Tools & MWD/LWD Components,82000.0,76
+87,Measurement While Drilling Battery Pack,Downhole Tools & MWD/LWD Components,64600.0,32
+88,"MWD Shock Sub Assembly 6-3/4""",Downhole Tools & MWD/LWD Components,61000.0,58
+89,Directional Drilling Bent Housing 1.5 Deg,Downhole Tools & MWD/LWD Components,84600.0,90
+90,Turbodrill Bearing Section Assembly,Downhole Tools & MWD/LWD Components,32700.0,73
+91,RSS Rotary Steerable Bias Unit Seal,Downhole Tools & MWD/LWD Components,39200.0,38
+92,LWD Resistivity Sensor Mandrel,Downhole Tools & MWD/LWD Components,20300.0,50
+93,"Downhole Motor Drive Sub 4-3/4""",Downhole Tools & MWD/LWD Components,3300.0,77
+94,Jar Hydraulic Mandrel Replacement,Downhole Tools & MWD/LWD Components,20700.0,35
+95,Accelerator Fishing Neck Sub,Downhole Tools & MWD/LWD Components,2100.0,87
+96,Near-Bit Reamer Stabilizer Blade,Downhole Tools & MWD/LWD Components,6400.0,15
+97,"Downhole Filter Sub 200 Mesh 4-3/4""",Downhole Tools & MWD/LWD Components,77100.0,49
+98,Orienting Sub Mule Shoe Assembly,Downhole Tools & MWD/LWD Components,7400.0,37
+99,"Crown Block Sheave Assembly 36""",Surface & Ancillary Equipment Parts,24800.0,69
+100,Traveling Block Hook Assembly 500T,Surface & Ancillary Equipment Parts,19400.0,23
+101,Drawworks Brake Drum Friction Lining,Surface & Ancillary Equipment Parts,61900.0,80
+102,"Deadline Anchor Clamp Assembly 1-3/8""",Surface & Ancillary Equipment Parts,49600.0,38
+103,Mast Guy Wire Anchor Swivel Plate,Surface & Ancillary Equipment Parts,67000.0,59
+104,V-Door Ramp Roller Assembly,Surface & Ancillary Equipment Parts,17400.0,19
+105,Catwalk Chain Assembly Heavy Duty,Surface & Ancillary Equipment Parts,56500.0,52
+106,Pipe Rack Stanchion Post Assembly,Surface & Ancillary Equipment Parts,36900.0,66
+107,Iron Roughneck Torque Wrench Die,Surface & Ancillary Equipment Parts,73600.0,13
+108,"Spider Slip Insert Hard-Facing 5""",Surface & Ancillary Equipment Parts,57700.0,89
+109,Safety Clamp Chain Tong Die,Surface & Ancillary Equipment Parts,9700.0,58
+110,"Drill Line 6x19 IWRC 1-1/4"" 2000 ft",Surface & Ancillary Equipment Parts,62300.0,20
+111,Crown-O-Matic Safety Device Latch,Surface & Ancillary Equipment Parts,22300.0,31
+112,Accumulator Unit Bladder 10-Gallon,Surface & Ancillary Equipment Parts,46300.0,24
